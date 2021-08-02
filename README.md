@@ -1,4 +1,7 @@
-## Hey! Meu nome é Leandro, mais conhecido como Sora!! 😄
+## Hey! Meu nome é Leandro, mais conhecido como Sora!! 😎
+
+<!--Trocar cores dos paineis: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
  <div>
   <a href="https://github.com/Leandro-Sora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Sora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" alt="Sora-icon" height="148" width="128" src="https://github.com/Leandro-Sora/Leandro-Sora/blob/main/Sora-icon.png?raw=true">
+ <img align="right" alt="Sora-icon" height="160" width="140" src="https://github.com/Leandro-Sora/Leandro-Sora/blob/main/Sora-icon.png?raw=true">
 </div>
   
   ##
